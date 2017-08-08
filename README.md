@@ -20,7 +20,7 @@
       - [Instanceof](#instanceof)
       - [Object.Prototype.toString](#objectprototypetostring)
       - [Mixins](#mixins)
-  * [**Functions**]functions)
+  * [**Functions**](#functions)
     + [Composition](#composition)
     + [Higher order functions](#higher-order-functions)
   * [**Events**](#events)
