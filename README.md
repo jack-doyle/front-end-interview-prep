@@ -121,9 +121,18 @@
 
 ## **Execution Context**
 
+ 1. [The execution context in Javascript](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/)
+ 2. [The execution context  and the lexical environment](https://medium.com/dailyjs/javascript-basics-the-execution-context-and-the-lexical-environment-3505d4fe1be2)
+ 3. [Javascript scope chain and closures](http://davidshariff.com/blog/javascript-scope-chain-and-closures/)
+ 4. [Lexical environments: ECMAScript implementation](http://dmitrysoshnikov.com/ecmascript/es5-chapter-3-2-lexical-environments-ecmascript-implementation/)
+
 ### Lexical Scope
 
+[Lexical Scope](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch2.md)
+
 ### Closures
+
+[Scope  & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md)
 
 ### Hoisting
 
