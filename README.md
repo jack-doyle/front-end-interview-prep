@@ -7,11 +7,8 @@
     + [Hoisting](#hoisting)
     + [Function and block scoping](#function-and-block-scoping)
     + [Function expressions and declarations](#function-expressions-and-declarations)
-    + [Binding](#binding)
-      - [Call](#call)
-      - [Bind](#bind)
-      - [Apply](#apply)
-      - [This](#this)
+    + [The *this* keyword](#the-this-keyword)
+    + Call, Apply and Bind
   * [**Objects**](#objects)
     + [Object Prototypes](#object-prototypes)
     + [Constructors](#constructors)
@@ -136,19 +133,20 @@
 
 ### Hoisting
 
+[Understanding hoisting in Javascript](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
+
 ### Function and block scoping
+[Function scopes and block scopes in Javascript](https://edgecoders.com/function-scopes-and-block-scopes-in-javascript-25bbd7f293d7)
 
 ### Function expressions and declarations
+[Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/)
 
-### Binding
+### The *this* keyword
+[Understand Javascript's *this*](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
-#### Call
-
-#### Bind
-
-#### Apply
-
-#### This
+### Call, Apply & Bind
+ 1. [How to use Call, Apply and Bind](https://alexperry.io/personal/2016/04/03/How-to-use-apply-bind-and-call.html)
+ 2. [Javascript's Apply, Call and Bind methods in-depth](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
 
 ## **Objects**
 
